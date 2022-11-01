@@ -6,38 +6,41 @@ You can find more information by visiting the [Codespace] (https://codespaceacad
 
 ## Getting Started
 
-These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
+These instructions will give you a copy of the project up and running on 
+your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
 
 ### Prerequisites
 
 Requirements for the software and other tool to build, test and push
-    - [Example1] (https://codespaceacademy.com)
-    - [Example2] (https://codespaceacademy.com
+    - [Example1](https://codespaceacademy.com)
+    - [Example2](https://codespaceacademy.com)
 
-# Installing
+### Installing
 
-A step by step series of examples that tell you how to get a development environment running
+A step by step series of examples that tell you how to get a development 
+environment running
 
 Say what the step will be
-
-Give the example
+    
+    Give the example
 
 And repeat
+    
+    until finished
 
-until finished
+End with an example of getting some data out of the system or using it 
+for a little demo
 
-End with an example of getting some data out of the system or using it for a little demo
-
-# Deployment
+## Deployment
 
 Add additional notes to deploy this on a live system
 
-# Built with
+## Built with
 
-    - [Contributor Covenant] - Used for the Code of Conduct
-    - [Creative Commons] - Used to choose the license
+    - [Contributor Covenant](https//:www.contrubutor-covenant.org/) - Used for the Code of Conduct
+    - [Creative Commons](https//:www.creativecommons.org/)  - Used to choose the license
 
-# Authors
+## Authors
 
     - **Programmer A** - *Provided README Template*
         [Profile A](https://github.com/profile A)
@@ -46,13 +49,13 @@ Add additional notes to deploy this on a live system
         [Profile B](https://github.com/profile B)
 
 
-See also the list of [Contributors] who participated in this project
+See also the list of [Contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors) who participated in this project
 
 
-# License
+## License
 
-This project is licensed under the [CCo1.0Universal] (License.md)
-Creative Commons License - see the [License.md](License.md) file for details
+This project is licensed under the [CC01.0Universal] (License.md)
+Creative Commons License-see the [License.md](License.md) file for details
 
   
 
